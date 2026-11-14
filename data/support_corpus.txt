@@ -1,0 +1,25 @@
+Hello, thank you for contacting support. I can help you with your order.
+I understand the issue and I will be happy to assist you.
+Please share your order number so I can check the status.
+Your order is being processed and will be shipped soon.
+I have checked the tracking details and your package is on the way.
+I am sorry for the delay. Thank you for your patience.
+Could you please confirm the email address linked to your account?
+For your security, please do not share your password or payment details.
+I have updated your account information. Please try again.
+Please restart the application and check whether the issue is resolved.
+If the payment was deducted, please share the transaction reference.
+The payment is still pending with the bank. It may take some time to update.
+Your refund has been initiated and should appear in your account soon.
+Refunds usually take a few business days to reflect.
+I understand how frustrating this must be. I will look into this for you.
+Thank you for bringing this to our attention.
+I have escalated this issue to our technical team.
+Our team is investigating the issue and will update you shortly.
+Please try clearing the application cache and signing in again.
+I can confirm that your account is active.
+Your replacement request has been submitted successfully.
+The delivery team will contact you before the delivery.
+I apologize for the inconvenience caused.
+Is there anything else I can help you with today?
+Thank you for contacting customer support. Have a great day.
