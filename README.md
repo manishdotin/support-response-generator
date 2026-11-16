@@ -2,6 +2,8 @@
 
 A command-line tool that suggests next words and short response continuations using a smoothed n-gram model trained on customer-support interactions.
 
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/37hp7c6nde/badge.svg)](https://msrit.ask.thili.ai/b/37hp7c6nde)
+
 ## Requirements
 
 Python 3.12 (or later) and the packages in `requirements.txt`.
